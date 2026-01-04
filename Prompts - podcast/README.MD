@@ -44,7 +44,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/janaina-silva21">
+        href="https://www.linkedin.com/in/janaina-silva21/">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
